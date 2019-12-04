@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sistema",
+            "request": "launch",
+            "mainClass": "Sistema",
+            "projectName": "AvaliacaoFinal_c1a24e74"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Geral",
+            "request": "launch",
+            "mainClass": "Geral"
+        }
+    ]
+}
